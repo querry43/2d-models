@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Pacman.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-152.3486"
+     inkscape:cy="539.51221"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Red Strawberry"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g4583"
+       transform="matrix(0.35277777,0,0,-0.35277777,65.791044,47.569698)">
+      <path
+         d="M 0,0 H -17.303 V 19.611 H -129.192 V 0 h -18.457 v -43.832 h 18.457 v -23.069 h 18.457 v -23.072 h 21.915 v -21.915 h 34.605 v 21.915 h 26.531 v 23.072 h 10.381 v 23.069 H 0 Z"
+         style="fill:#ed2224;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4585"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Green Strawberry Top"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4587"
+       transform="matrix(0.35277777,0,0,-0.35277777,57.296293,37.701551)">
+      <path
+         d="M 0,0 H -40.661 V 22.494 H -53.637 V 0 h -41.527 v -16.437 h 21.196 v -8.651 h 51.907 v 8.651 H 0 Z"
+         style="fill:#52b848;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4589"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="White Strawberry Spots"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4904">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4591"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 38.808164,62.524794 h -5.39009 v -5.774972 h 5.39009 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4593"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 53.915164,68.628555 h -5.38973 v -5.774619 h 5.38973 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4595"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 48.726864,78.089702 h -5.39009 V 72.31473 h 5.39009 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4597"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 56.075584,55.956072 h -2.81976 v -3.020836 h 2.81976 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4599"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 37.611194,71.684316 h -2.97216 v -3.184172 h 2.97216 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4601"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+         d="m 27.226824,56.92868 h -3.72745 v -3.993797 h 3.72745 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Pacman"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g4579"
+       transform="matrix(0.35277777,0,0,-0.35277777,138.11781,87.806109)">
+      <path
+         d="m 0,0 h -13.609 v 19.794 h -9.9 v 12.373 h -23.507 v 9.9 h -54.438 v -9.9 h -22.272 V 19.794 H -136.1 V 0 l 21.323,-0.027 -0.02,-10.672 36.286,0.451 0.233,-11.169 23.033,-0.232 0.233,-15.82 -23.266,-0.233 v -11.4 l -36.063,-0.233 v -11.167 l -21.871,-0.234 0.112,-17.213 h 12.374 v -16.085 h 22.272 v -9.897 h 54.438 v 9.897 h 23.507 v 16.085 h 9.9 v 18.56 H 0 Z"
+         style="fill:#fff200;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4581"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ghost Outline"
+     style="display:inline">
+    <g
+       id="g4495"
+       transform="matrix(0.35277777,0,0,-0.35277777,139.21713,193.01227)">
+      <path
+         d="m 0,0 -0.036,0.671 v 88.013 l -12.37,-0.224 -0.22,36.858 h -10.759 l -0.22,11.839 h -11.198 v 11.393 l -22.617,0.223 -0.438,5.584 h -45.673 l -0.22,-5.36 -21.518,-0.224 v -11.392 l -11.858,0.223 v -11.616 h -12.297 l -0.219,-35.741 -8.563,0.224 0.219,-90.247 h 8.563 l 0.055,9.381 h 12.023 V 22.34 l 12.151,0.072 V 10.5 l 11.418,-0.149 0.145,-10.574 21.226,-0.149 v 22.784 l 22.251,0.15 -0.146,-22.785 25.617,-0.149 0.147,11.468 h 10.391 l -0.109,11.466 h 10.54 l 0.11,-11.393 10.979,0.225 V -0.111 Z"
+         style="fill:#ed2024;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4497"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="White Ghost Eyes"
+     style="display:inline">
+    <g
+       id="g4499"
+       transform="matrix(0.35277777,0,0,-0.35277777,127.40391,152.73394)">
+      <path
+         d="M 0,0 H -12.734 V 10.979 H -36.01 V 0 h -10.1 v -33.596 h 10.1 v -11.856 h 23.276 v 11.856 H 0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4501"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4503"
+       transform="matrix(0.35277777,0,0,-0.35277777,103.23588,153.00335)">
+      <path
+         d="M 0,0 H -12.735 V 10.864 H -36.011 V 0 h -10.1 v -33.247 h 10.1 v -11.734 h 23.276 v 11.734 H 0 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4505"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Ghost Eyes Blue"
+     style="display:inline">
+    <path
+       d="m 118.88302,164.55961 h -7.74594 v -7.35859 h 7.74594 z"
+       style="fill:#2f55a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       id="path4507"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 94.714923,164.70637 h -7.74594 v -7.28239 h 7.74594 z"
+       style="fill:#2f55a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       id="path4509"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
